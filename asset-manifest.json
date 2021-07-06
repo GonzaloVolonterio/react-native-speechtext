@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.1c9de88d.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.1c9de88d.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.0a8a301a.chunk.js": "/expo-gh-pages/static/js/2.0a8a301a.chunk.js",
-    "static/js/2.0a8a301a.chunk.js.map": "/expo-gh-pages/static/js/2.0a8a301a.chunk.js.map",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.0a8a301a.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.0a8a301a.chunk.js.LICENSE.txt"
+    "app.js": "/react-native-speechtext/static/js/app.1c9de88d.chunk.js",
+    "app.js.map": "/react-native-speechtext/static/js/app.1c9de88d.chunk.js.map",
+    "runtime~app.js": "/react-native-speechtext/static/js/runtime~app.77de7bad.js",
+    "runtime~app.js.map": "/react-native-speechtext/static/js/runtime~app.77de7bad.js.map",
+    "static/js/2.b3fca883.chunk.js": "/react-native-speechtext/static/js/2.b3fca883.chunk.js",
+    "static/js/2.b3fca883.chunk.js.map": "/react-native-speechtext/static/js/2.b3fca883.chunk.js.map",
+    "favicon-16.png": "/react-native-speechtext/favicon-16.png",
+    "favicon-32.png": "/react-native-speechtext/favicon-32.png",
+    "favicon.ico": "/react-native-speechtext/favicon.ico",
+    "index.html": "/react-native-speechtext/index.html",
+    "manifest.json": "/react-native-speechtext/manifest.json",
+    "serve.json": "/react-native-speechtext/serve.json",
+    "static/js/2.b3fca883.chunk.js.LICENSE.txt": "/react-native-speechtext/static/js/2.b3fca883.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.57d3d678.js",
-    "static/js/2.0a8a301a.chunk.js",
+    "static/js/runtime~app.77de7bad.js",
+    "static/js/2.b3fca883.chunk.js",
     "static/js/app.1c9de88d.chunk.js"
   ]
 }
